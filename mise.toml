@@ -1,0 +1,3 @@
+[tools]
+"npm:@shopify/app" = "latest"
+"npm:@shopify/cli" = "latest"
